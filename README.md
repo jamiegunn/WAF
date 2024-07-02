@@ -17,7 +17,7 @@ Install the Azure CLI. You can download it from the official website.  https://l
 2. Run `az login` and follow the on-screen instructions to log in. This method is suitable for development and testing but not recommended for production.  Use the credentials that have been shared.
 3. Run `az account show` to see which account you are logged in as.
 3. Run `az account list --output table` to see all the subscriptions that your account has access to.
-4. `az account set --subscription"yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy"
+4. Note:  You may not have to do this.  Run `az account set --subscription"yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy"
 `
 
 ## Download Terraform
