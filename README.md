@@ -28,9 +28,9 @@ Install the Azure CLI. You can download it from the official website.  https://l
 
 ## Execute the terraform to build the VM
 1. Create a folder called "Scripts" at the C:\
-2. Copy down the main.tf from the Operational-Excellence folder to the Scripts folder
+2. Copy down the main.tf from the [Operational-Excellence](https://github.com/jamiegunn/WAF/blob/main/Operational-Excellence/main.tf) folder to the Scripts folder
 3. Open an editor and review main.tf
-Note:  Adjust the password for the VM
+4. Note:  Adjust the password for the VM
 5. Open a command prompt and navigate to C:\Scripts`
 6. Run `terraform init`
 7. Run `terraform plan`
