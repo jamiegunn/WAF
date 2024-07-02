@@ -24,7 +24,7 @@ Install the Azure CLI. You can download it from the official website.  https://l
 ## Download Terraform
 
 1. Download from the website [Terraform](https://developer.hashicorp.com/terraform/install?product_intent=terraform)
-2. Unbundle it and copy to a location in your PATH `echo %PATH%`
+2. Unbundle it and copy to a location in your PATH.  Open your command prompt and type in: `echo %PATH%`  This is if you are using command prompt.  If you use PowerShell you would use `echo $env:path`
 3. Open a new command prompt and type in `terraform version`
 
 ## Execute the terraform to build the VM
