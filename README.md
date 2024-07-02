@@ -36,7 +36,7 @@ Install the Azure CLI. You can download it from the official website.  https://l
 6. Run `terraform init`
 7. Run `terraform plan`
 8. Run `terraform apply -var="name_prefix=yyyy"`  
-Note:  change yyyy with your login name
+Note:  change yyyy with your first letter of your first name and your last name.
 This will run the script and tell you that you will be making 6 changes
 6. Type in `yes` when requested
 
